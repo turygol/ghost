@@ -11,3 +11,4 @@ else
     adb shell input text $1
     } &> /dev/null
 fi
+
